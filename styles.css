@@ -1,0 +1,51 @@
+.foot {
+    font-size: 13px;
+    color: rgb(132, 133, 133);
+line-height: 16px;
+
+}
+.ff {
+    width: 70%;
+}
+
+.aa {
+color:  rgb(132, 133, 133);
+text-decoration: underline;
+font-weight: normal;
+}
+
+.foots {
+    font-size: 13px;
+    color: rgb(80, 79, 79);
+    font-weight: 500;
+    padding: 0px;
+    margin-bottom: 4px;
+}
+.foote {
+    font-size: 13px;
+    color: rgb(80, 79, 79);
+    margin-bottom: 4px;
+}
+
+.foote:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #cfcfcf47;
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.lists {
+    background-color: #cfcfcf47;
+}
+.two {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
